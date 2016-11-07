@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+class_name: '${1:}'
+]]></content>
+ <tabTrigger>cn</tabTrigger>
+ 	<scope>source.ruby</scope>
+ 	<description>class_name</description>
+</snippet>

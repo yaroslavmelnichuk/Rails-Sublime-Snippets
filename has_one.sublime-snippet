@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+has_one :
+]]></content>
+ <tabTrigger>ho</tabTrigger>
+ 	<scope>source.ruby</scope>
+ 	<description>has_one(...)</description>
+</snippet>

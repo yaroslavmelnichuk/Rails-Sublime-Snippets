@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ get '${1:}', to: '${0:}'
+]]></content>
+ <tabTrigger>get</tabTrigger>
+ 	<scope>source.ruby</scope>
+ 	<description>get route</description>
+</snippet>

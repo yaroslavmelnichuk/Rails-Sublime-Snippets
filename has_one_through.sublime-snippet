@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+has_one :${1:model}, through: :${0:model}
+]]></content>
+ <tabTrigger>hot</tabTrigger>
+ 	<scope>source.ruby</scope>
+ 	<description>has_one(..throught)</description>
+</snippet>
